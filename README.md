@@ -1,2 +1,3 @@
-# Udemy-WebSite7
-This repository contains my practise from Udemy course.
+Practise 7
+
+Url of Site: https://agile-meadow-87393.herokuapp.com/
